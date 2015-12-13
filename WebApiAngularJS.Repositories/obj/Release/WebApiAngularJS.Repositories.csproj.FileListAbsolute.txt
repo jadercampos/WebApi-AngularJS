@@ -1,0 +1,14 @@
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\bin\Release\WebApiAngularJS.Repositories.dll.config
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\bin\Release\WebApiAngularJS.Repositories.dll
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\bin\Release\WebApiAngularJS.Repositories.pdb
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\bin\Release\EntityFramework.dll
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\bin\Release\EntityFramework.SqlServer.dll
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\bin\Release\WebApiAngularJS.Domain.dll
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\bin\Release\WebApiAngularJS.Domain.pdb
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\bin\Release\EntityFramework.xml
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\bin\Release\EntityFramework.SqlServer.xml
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\obj\Release\WebApiAngularJS.Repositories.csprojResolveAssemblyReference.cache
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\obj\Release\WebApiAngularJS.Repositories.Migrations.CriacaoBase.resources
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\obj\Release\WebApiAngularJS.Repositories.csproj.GenerateResource.Cache
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\obj\Release\WebApiAngularJS.Repositories.dll
+D:\Google Drive\PROJETOS\DotNet\7 - WebApi [AngularJS]\WebApiAngularJS.Repositories\obj\Release\WebApiAngularJS.Repositories.pdb
